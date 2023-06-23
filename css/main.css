@@ -1005,7 +1005,9 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 .skill-bars li .percent80  { width: 80%; }
 .skill-bars li .percent85  { width: 85%; }
 .skill-bars li .percent90  { width: 90%; }
+.skill-bars li .percent92  { width: 92%; }
 .skill-bars li .percent95  { width: 95%; }
+.skill-bars li .percent97  { width: 97%; }
 .skill-bars li .percent100 { width: 100%; }
 
 
